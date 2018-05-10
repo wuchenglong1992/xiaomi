@@ -1,0 +1,6 @@
+body{font-size:14px;font-family:"Microsoft YaHei";}
+body,p,dd,dl,h1,h2,h3,h4,h5,h6 {margin:0;}
+ol,ul,li{margin:0;padding:0;list-style:none;}
+a{text-decoration:none;}
+img{border:none;}
+.clearfix:after{display:block;content:'';clear:both;}
